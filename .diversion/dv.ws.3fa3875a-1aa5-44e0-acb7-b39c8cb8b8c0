@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.3fa3875a-1aa5-44e0-acb7-b39c8cb8b8c0",
+  "RepoID": "dv.repo.801a06ed-8f68-44e2-bc68-f4514e2503d9",
+  "Path": "C:\\Users\\pjsto\\OneDrive\\Documents\\Unreal Projects\\MedusaGame",
+  "AccountID": "Google_109799572026891284528",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "MedusaGame",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}

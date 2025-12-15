@@ -1,0 +1,19 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE clutter
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.log
+
+# Diversion
+.dvignore
